@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/pasekji/uun-zsv-base-converter/static/css/main.6d0f56c0.css",
-    "main.js": "/pasekji/uun-zsv-base-converter/static/js/main.cb797868.js",
-    "index.html": "/pasekji/uun-zsv-base-converter/index.html",
-    "main.6d0f56c0.css.map": "/pasekji/uun-zsv-base-converter/static/css/main.6d0f56c0.css.map",
-    "main.cb797868.js.map": "/pasekji/uun-zsv-base-converter/static/js/main.cb797868.js.map"
+    "main.css": "/uun-zsv-base-converter/static/css/main.6d0f56c0.css",
+    "main.js": "/uun-zsv-base-converter/static/js/main.cb797868.js",
+    "index.html": "/uun-zsv-base-converter/index.html",
+    "main.6d0f56c0.css.map": "/uun-zsv-base-converter/static/css/main.6d0f56c0.css.map",
+    "main.cb797868.js.map": "/uun-zsv-base-converter/static/js/main.cb797868.js.map"
   },
   "entrypoints": [
     "static/css/main.6d0f56c0.css",
